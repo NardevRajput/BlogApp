@@ -1,0 +1,1 @@
+This repository contains a full-stack BlogApp built with the MERN stack (MongoDB, Express.js, React.js, Node.js). The README file provides a complete overview of the project, including features, setup instructions, technologies used, and folder structure.
